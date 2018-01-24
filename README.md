@@ -33,6 +33,7 @@ At the moment this readme is just my notes and todo list
 17. Otherwise the round ends by a player discarding their last card.
 18. Each player gets points for all the cards they have played and loses points for all the cards in their hand.
 19. The value of the cards are:
+
 | Card        | Points          |
 | ------------- |-------------:|
 | 3-9 | 5 |
