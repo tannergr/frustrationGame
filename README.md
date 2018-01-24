@@ -38,7 +38,7 @@ At the moment this readme is just my notes and todo list
 | 3-9 | 5 |
 | 10 - King | 10 |
 | Ace | 15 |
-| 2 | 20 |  
+| 2 | 20 |
 | Joker | 50 |
 20. After summing the points, the next round begins as the first one did with the next player dealing and trying to get the exact amount of points.
 
